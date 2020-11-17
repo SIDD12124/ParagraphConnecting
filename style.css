@@ -1,0 +1,93 @@
+body{
+    text-align: center;
+    background-image: linear-gradient( to right ,#39A78E,#738678,#ff0079);
+}
+
+.num{
+    color:#000080;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+button{
+    color:palevioletred;
+    font-weight: bolder;
+    padding: 10px, 10px;
+    background-color: silver;
+    font-size: 14px;
+}
+
+#input1{
+    background-color: black;
+    color: red;
+}
+
+#input2{
+    background-color: black;
+    color:red;
+}
+
+#input3{
+    background-color: black;
+    color: red;
+}
+
+#input4{
+    background-color: black;
+    color: red;
+}
+
+#input5{
+    background-color: black;
+    color: red;
+}
+
+#input6{
+    background-color: black;
+    color: red;
+}
+
+#inpu1{
+    background-color: black;
+    color: red;
+}
+
+#inpu2{
+    background-color: black;
+    color: red;
+}
+
+#inpu3{
+    color: red;
+    background-color: black;
+}
+
+#inpu4{
+    color: red;
+    background-color: black;
+    
+}
+
+#inpu5{
+    color: red;
+    background-color: black;
+}
+
+#inpu6{
+    color: red;
+    background-color: black;
+}
+
+#info{
+    width: 49%;
+    float: right;
+    margin-top: 50px;
+}
+
+.container{
+    border-style: none;
+    border-radius: 15px;
+    border: 20px, 15px;
+    float:right;
+    text-align: center;
+}
